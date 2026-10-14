@@ -6,15 +6,7 @@ End-to-end pipeline that takes export invoices sent by customs brokers by email 
 
 ## How it works
 
-```mermaid
-flowchart LR
-    A[Customs broker email<br/>'EXPORT DOCUMENTS'] --> B{Power Automate Cloud<br/>routing flow}
-    B -- subject matches --> C[Outlook folder<br/>INVOICES<br/>left unread = pending]
-    B -- other broker mail --> D[Other branches<br/>declarations, IMY, ...]
-    C --> E[Python - Step 0<br/>save CC-&lt;billing doc&gt;.pdf<br/>to SAP GUI work folder<br/>mark email read]
-    E --> F[Python - SAP GUI Scripting<br/>VF02: attach PDF<br/>confirm from status bar]
-    F --> G[Delete local PDF<br/>log the result]
-```
+![Workflow](workflow.png)
 
 1. **Routing (Power Automate Cloud).** A cloud flow watches the inbox for mail from the customs brokers. Mails whose subject contains the export-documents keyword skip the main declarations path and are moved to a dedicated `INVOICES` Outlook folder, **left unread** — unread means "not processed yet".
    - Brokers mix Greek and Latin capitals in subjects (e.g. a Greek `Ι` that looks like a Latin `I`). The flow normalises the subject before comparing:
