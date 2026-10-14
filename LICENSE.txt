@@ -1,0 +1,71 @@
+Copyright (c) 2026 Petros Vachaviolos. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+1. Authorship. The software in this repository, including its source code, logic,
+   documentation and any associated files (the "Software"), was conceived,
+   designed and written by Petros Vachaviolos (the "Author"), who is its sole author.
+
+2. Origin. The Software was created on the Author's own initiative, using
+   knowledge the Author acquired through self-study, outside the scope of the
+   Author's job duties and without any assignment, instruction or additional
+   remuneration from any employer.
+
+3. Personal use only. The Software is intended exclusively for the Author's
+   own personal use, as a personal tool that makes the Author's own work easier.
+
+4. No licence granted. No part of the Software may be copied, modified, merged,
+   published, distributed, sublicensed, sold, commercially exploited or
+   otherwise used by any other person or organisation, in whole or in part,
+   without the prior written permission of the Author.
+
+5. Employment and termination. No right of use or exploitation is granted to
+   any employer, client or third party by the mere fact that the Software was
+   developed during, used in, or stored on the premises, systems or cloud
+   storage of such party. These restrictions continue to apply after the end
+   of any employment, contract or cooperation of the Author with any party.
+   Any permission that the Author may give for use of the Software ends
+   automatically when that employment or cooperation ends, unless the Author
+   has agreed otherwise in writing.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+--------------------------------------------------------------------------------
+
+Πνευματικά δικαιώματα (c) 2026 Petros Vachaviolos. Με την επιφύλαξη παντός δικαιώματος.
+
+ΑΔΕΙΑ ΧΡΗΣΗΣ ΚΛΕΙΣΤΟΥ ΛΟΓΙΣΜΙΚΟΥ
+
+1. Δημιουργός. Το λογισμικό αυτού του αποθετηρίου (repository), μαζί με τον πηγαίο κώδικα, τη
+   λογική, την τεκμηρίωση και κάθε σχετικό αρχείο («Λογισμικό»), σχεδιάστηκε
+   και γράφτηκε από τον/την Petros Vachaviolos («Δημιουργός»), που είναι ο μοναδικός
+   δημιουργός του.
+
+2. Προέλευση. Το Λογισμικό δημιουργήθηκε με αποκλειστική πρωτοβουλία του
+   Δημιουργού, με γνώσεις που απέκτησε με αυτοδιδασκαλία, εκτός του πλαισίου
+   των εργασιακών του καθηκόντων και χωρίς ανάθεση, εντολή, οδηγίες ή επιπλέον
+   αμοιβή από οποιονδήποτε εργοδότη.
+
+3. Αποκλειστικά προσωπική χρήση. Το Λογισμικό προορίζεται αποκλειστικά για
+   προσωπική χρήση του Δημιουργού, ως προσωπικό εργαλείο που διευκολύνει τη
+   δική του εργασία.
+
+4. Καμία παραχώρηση. Απαγορεύεται η αντιγραφή, τροποποίηση, συγχώνευση,
+   δημοσίευση, διανομή, παραχώρηση, πώληση, εμπορική εκμετάλλευση ή
+   οποιαδήποτε άλλη χρήση του Λογισμικού από άλλο πρόσωπο ή οργανισμό, εν όλω
+   ή εν μέρει, χωρίς την προηγούμενη έγγραφη άδεια του Δημιουργού.
+
+5. Εργασιακή σχέση και λήξη της. Κανένα δικαίωμα χρήσης ή εκμετάλλευσης δεν
+   παραχωρείται σε εργοδότη, πελάτη ή τρίτο μόνο επειδή το Λογισμικό
+   αναπτύχθηκε κατά τη διάρκεια συνεργασίας μαζί του ή χρησιμοποιήθηκε ή
+   αποθηκεύτηκε σε χώρους, συστήματα ή cloud του. Οι περιορισμοί αυτοί
+   εξακολουθούν να ισχύουν και μετά τη λήξη οποιασδήποτε εργασιακής σχέσης,
+   σύμβασης ή συνεργασίας του Δημιουργού. Όποια άδεια χρήσης δώσει ο
+   Δημιουργός λήγει αυτόματα με τη λήξη της σχέσης αυτής, εκτός αν ο
+   Δημιουργός έχει συμφωνήσει εγγράφως διαφορετικά.
+
+6. Καμία εγγύηση. ΤΟ ΛΟΓΙΣΜΙΚΟ ΠΑΡΕΧΕΤΑΙ «ΩΣ ΕΧΕΙ», ΧΩΡΙΣ ΚΑΜΙΑ ΕΓΓΥΗΣΗ. Ο
+   ΔΗΜΙΟΥΡΓΟΣ ΔΕΝ ΦΕΡΕΙ ΕΥΘΥΝΗ ΓΙΑ ΟΠΟΙΑΔΗΠΟΤΕ ΑΞΙΩΣΗ Ή ΖΗΜΙΑ ΑΠΟ ΤΟ ΛΟΓΙΣΜΙΚΟ
+   Ή ΤΗ ΧΡΗΣΗ ΤΟΥ.
