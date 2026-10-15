@@ -37,6 +37,10 @@ flowchart LR
 
 Paths are relative: the SAP GUI work folder is `~/Documents/SAP/SAP GUI`, and the "done" list lives next to the script. SAP user, connection and client are placeholders (`YOUR_SAP_USER`, `YOUR_SAP_CONNECTION`, `YOUR_CLIENT`); the password is read from Windows Credential Manager.
 
+## Related
+
+The same broker routing flow also saves the customs declarations (`<MRN>.pdf`) in the SAP GUI work folder, where the import declaration automation picks them up and attaches them to the SAP postings: [ima-pad-flow](https://github.com/PetrosVachaviolos/ima-pad-flow).
+
 ## License
 
 Copyright (c) 2026 Petros Vachaviolos. All rights reserved. Proprietary; shown here as a portfolio. No use, copying or redistribution without the author's written permission. See [LICENSE.txt](LICENSE.txt).
